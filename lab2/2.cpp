@@ -1,7 +1,4 @@
-#include <array>
-#include <cstddef>
-#include <iostream>
-#include <print>
+import std;
 
 auto main() -> int {
     int number{};

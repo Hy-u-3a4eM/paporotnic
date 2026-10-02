@@ -1,5 +1,5 @@
+import std;
 #include "previous_sum.h"
-#include <print>
 
 namespace demo {
 

@@ -1,5 +1,4 @@
-#include <cstdint>
-#include <print>
+import std;
 
 auto main() -> int {
   int a = 150;

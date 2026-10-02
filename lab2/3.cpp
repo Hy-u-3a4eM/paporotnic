@@ -1,6 +1,4 @@
-#include <array>
-#include <cstddef>
-#include <print>
+import std;
 
 static auto sum_to(const int number = 1) -> long long {
     if (number <= 0) {
