@@ -1,7 +1,7 @@
 #include <cstdint>
 #include <print>
 
-int main() {
+auto main() -> int {
   int a = 150;
   float b = 15.933;
   std::uint_least8_t c = 250;

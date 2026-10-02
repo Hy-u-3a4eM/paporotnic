@@ -1,6 +1,4 @@
-#include <iostream>
-#include <numeric>
-#include <print>
+import std;
 
 auto main() -> int {
     double a{}, b{};
