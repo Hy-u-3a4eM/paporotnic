@@ -1,0 +1,10 @@
+name = "lect4"
+version = "0.1.0"
+defaultTargets = ["lect4"]
+
+[[lean_lib]]
+name = "Lect4"
+
+[[lean_exe]]
+name = "lect4"
+root = "Main"

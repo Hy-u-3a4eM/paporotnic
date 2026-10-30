@@ -1,4 +1,4 @@
-import Lect
+import Lect4
 
 def main : IO Unit :=
   IO.println s!"Hello, {hello}!"
