@@ -1,0 +1,19 @@
+# Local IDE settings
+.idea/
+*.iml
+
+# CMake build output
+cmake-build-*/
+build/
+out/
+
+# Rust and Lean build output
+target/
+.lake/
+
+# Common Lisp build output
+*.fasl
+/lect3/recursion
+
+# macOS metadata
+.DS_Store
