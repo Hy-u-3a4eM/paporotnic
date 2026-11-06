@@ -1,1 +1,0 @@
-(parameterize ([optimize-level 3] [compile-file-message #f]) (compile-program "/Users/artur/Projects/paporotnic/lect3/build/exec/lect3_app/lect3.ss"))
